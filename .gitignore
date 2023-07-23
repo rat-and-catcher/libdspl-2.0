@@ -11,6 +11,7 @@
 *.png
 *.def
 *.log
+*.mod
 
 !header_ru.html
 !footer_ru.html
