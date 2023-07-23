@@ -1,3 +1,19 @@
+## rat-and-catcher fork of Serge Bakhurin's Dsplib DSPL-2.0 library
+The fork has made to have a copy of more or less current Serge Bakhurin's (http://en.dsplib.org/dspl/) DSP library copy; in general -- just for ourself.
+
+As we had to see for many years -- the code sometimes turns out available, sometimes not; sometimes at github.com but sometimes at souceforge.net.
+
+We respected the essential right of the author -- to put a match to his work, but once the code was published under LGPL (3+), it can be reproduced anywhere under the same LGPL 3+ conditions. The Bakhurin's work is great. At least, for our opinion.
+
+So, the history:
+
+23-jul-2023 :
++   Make a fork from https://github.com/Dsplib/libdspl-2.0;
++   Update forked repo to more recent https://sourceforge.net/p/libdspl-2-0/code/ci/master/tree/ (date of last update seems 2022-05-08 13:28:54);
++   Add this comment to readme.md;
+
+## /rat-and-catcher disclaimer
+
 # libdspl-2.0 free digital signal processing algorithm library
 
 [![Build Status](https://travis-ci.org/Dsplib/libdspl-2.0.svg?branch=master)](https://travis-ci.org/Dsplib/libdspl-2.0)
