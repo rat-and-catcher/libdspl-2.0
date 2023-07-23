@@ -1,4 +1,5 @@
-## rat-and-catcher fork of Serge Bakhurin's Dsplib DSPL-2.0 library
+## rat-and-catcher disclaimer
+This is a fork of Serge Bakhurin's libdspl-2.0 free digital signal processing algorithm library
 The fork has made to have a copy of more or less current Serge Bakhurin's (http://en.dsplib.org/dspl/) DSP library copy; in general -- just for ourself.
 
 As we had to see for many years -- the code sometimes turns out available, sometimes not; sometimes at github.com but sometimes at souceforge.net.
