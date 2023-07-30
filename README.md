@@ -1,11 +1,9 @@
 ## rat-and-catcher disclaimer
 This is a fork of Serge Bakhurin's libdspl-2.0 free digital signal processing algorithm library.
 
-The fork has made to have a copy of more or less current Serge Bakhurin's (http://en.dsplib.org/dspl/) DSP library copy; in general -- just for ourself.
+As we had to see for many years -- the code sometimes turns out available, sometimes not; sometimes at github.com but sometimes at souceforge.net. We unsure that this code is recent; but it compiled (Mingw / Linux gcc) and seems work.
 
-As we had to see for many years -- the code sometimes turns out available, sometimes not; sometimes at github.com but sometimes at souceforge.net.
-
-We respected the essential right of the author -- to put a match to his work, but once the code was published under LGPL (3+), it can be reproduced anywhere under the same LGPL 3+ conditions. The Bakhurin's work is great. At least, for our opinion.
+We respected all of the rights of the author -- up to to put a match to his work, but once the code was published under LGPL 3, it can be reproduced anywhere under the same LGPL 3+ conditions. The Bakhurin's work is great. At least, for our opinion.
 
 So, the history:
 
