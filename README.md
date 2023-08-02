@@ -11,7 +11,8 @@ So, the history:
 +   Make a fork from https://github.com/Dsplib/libdspl-2.0;
 +   Update forked repo to more recent https://sourceforge.net/p/libdspl-2-0/code/ci/master/tree/ (date of last update seems 2022-05-08 13:28:54);
 +   Add this comment to readme.md;
-
+2-aug-2023 :
++   Create a label V23.08.02 (date as versions); keep all as release
 ## /rat-and-catcher disclaimer
 
 # libdspl-2.0 free digital signal processing algorithm library
