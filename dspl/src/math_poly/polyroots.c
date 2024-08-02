@@ -170,7 +170,8 @@ int DSPL_API polyroots(double* a, int ord, complex_t* r, int* info)
     t = (complex_t*)malloc(ord * ord * sizeof(complex_t));
     if(!t)
         return ERROR_MALLOC;
-    
+    memset(t, 0, ord * ord * sizeof(complex_t));    // !!!
+
     for(m = 0; m < ord-1; m++)
     {
         RE(t[m * (ord+1) + 1]) = 1.0;
