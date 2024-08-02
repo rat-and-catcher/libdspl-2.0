@@ -19,7 +19,7 @@ So, the history:
 
 02-aug-2024 :
 
-+   update polyroots.c -- clear initial matrix according https://github.com/Dsplib/libdspl-2.0. It was hard bug; but the results our gen-iir stay unaffected.
++   update polyroots.c -- clear initial matrix according https://github.com/Dsplib/libdspl-2.0. It was hard bug; but the results of our gen-iir stay unaffected.
 
 ## /rat-and-catcher disclaimer
 
