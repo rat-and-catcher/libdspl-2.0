@@ -17,6 +17,10 @@ So, the history:
 
 +   Create a label V23.08.02 (date as versions); keep all as release
 
+02-aug-2024 :
+
++   update polyroots.c -- clear initial matrix according https://github.com/Dsplib/libdspl-2.0. It was hard bug; but the results our gen-iir stay unaffected.
+
 ## /rat-and-catcher disclaimer
 
 # libdspl-2.0 free digital signal processing algorithm library
